@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46d404cb.css",
+    "main.js": "/static/js/main.d5dded84.js",
+    "react.js": "/static/js/react.b709dc58.js",
+    "vendor.react-three.js": "/static/js/vendor.react-three.d1566220.js",
+    "vendor.react-spring.js": "/static/js/vendor.react-spring.8456b3b5.js",
+    "vendor.react-reconciler.js": "/static/js/vendor.react-reconciler.18185f9f.js",
+    "vendor.three-stdlib.js": "/static/js/vendor.three-stdlib.d2e89eb3.js",
+    "vendor.three~82ed6b64.js": "/static/js/vendor.three~82ed6b64.9135abf6.js",
+    "vendor.tailwind-merge.js": "/static/js/vendor.tailwind-merge.6e4860aa.js",
+    "vendor.postprocessing.js": "/static/js/vendor.postprocessing.070172e3.js",
+    "vendor.three~8e12fa16.js": "/static/js/vendor.three~8e12fa16.f0b84857.js",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/js/react.b709dc58.js",
+    "static/js/vendor.react-three.d1566220.js",
+    "static/js/vendor.react-spring.8456b3b5.js",
+    "static/js/vendor.react-reconciler.18185f9f.js",
+    "static/js/vendor.three-stdlib.d2e89eb3.js",
+    "static/js/vendor.three~8e12fa16.f0b84857.js",
+    "static/js/vendor.three~82ed6b64.9135abf6.js",
+    "static/js/vendor.tailwind-merge.6e4860aa.js",
+    "static/js/vendor.postprocessing.070172e3.js",
+    "static/css/main.46d404cb.css",
+    "static/js/main.d5dded84.js"
+  ]
+}
