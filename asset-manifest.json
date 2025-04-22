@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b1ae6a00.css",
+    "main.js": "/static/js/main.498e8148.js",
+    "react.js": "/static/js/react.bdd77deb.js",
+    "vendor.react-three.js": "/static/js/vendor.react-three.45108492.js",
+    "vendor.react-reconciler.js": "/static/js/vendor.react-reconciler.2f975928.js",
+    "vendor.three-stdlib.js": "/static/js/vendor.three-stdlib.2f7aa457.js",
+    "vendor.three~da662f0b.js": "/static/js/vendor.three~da662f0b.bc785cfa.js",
+    "vendor.tailwind-merge.js": "/static/js/vendor.tailwind-merge.ca97cac3.js",
+    "vendor.postprocessing.js": "/static/js/vendor.postprocessing.c17f4924.js",
+    "vendor.three~f00f50ba.js": "/static/js/vendor.three~f00f50ba.fb97734c.js",
+    "index.html": "/index.html",
+    "main.b1ae6a00.css.map": "/static/css/main.b1ae6a00.css.map",
+    "main.498e8148.js.map": "/static/js/main.498e8148.js.map",
+    "react.bdd77deb.js.map": "/static/js/react.bdd77deb.js.map",
+    "vendor.react-three.45108492.js.map": "/static/js/vendor.react-three.45108492.js.map",
+    "vendor.react-reconciler.2f975928.js.map": "/static/js/vendor.react-reconciler.2f975928.js.map",
+    "vendor.three-stdlib.2f7aa457.js.map": "/static/js/vendor.three-stdlib.2f7aa457.js.map",
+    "vendor.three~da662f0b.bc785cfa.js.map": "/static/js/vendor.three~da662f0b.bc785cfa.js.map",
+    "vendor.tailwind-merge.ca97cac3.js.map": "/static/js/vendor.tailwind-merge.ca97cac3.js.map",
+    "vendor.postprocessing.c17f4924.js.map": "/static/js/vendor.postprocessing.c17f4924.js.map",
+    "vendor.three~f00f50ba.fb97734c.js.map": "/static/js/vendor.three~f00f50ba.fb97734c.js.map"
+  },
+  "entrypoints": [
+    "static/js/react.bdd77deb.js",
+    "static/js/vendor.react-three.45108492.js",
+    "static/js/vendor.react-reconciler.2f975928.js",
+    "static/js/vendor.three-stdlib.2f7aa457.js",
+    "static/js/vendor.three~f00f50ba.fb97734c.js",
+    "static/js/vendor.three~da662f0b.bc785cfa.js",
+    "static/js/vendor.tailwind-merge.ca97cac3.js",
+    "static/js/vendor.postprocessing.c17f4924.js",
+    "static/css/main.b1ae6a00.css",
+    "static/js/main.498e8148.js"
+  ]
+}
